@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/appPushGot/static/css/main.981f7211.chunk.css",
+    "main.js": "/appPushGot/static/js/main.0941adb4.chunk.js",
+    "main.js.map": "/appPushGot/static/js/main.0941adb4.chunk.js.map",
+    "runtime-main.js": "/appPushGot/static/js/runtime-main.9b9e9f2d.js",
+    "runtime-main.js.map": "/appPushGot/static/js/runtime-main.9b9e9f2d.js.map",
+    "static/css/2.86df01db.chunk.css": "/appPushGot/static/css/2.86df01db.chunk.css",
+    "static/js/2.d9375810.chunk.js": "/appPushGot/static/js/2.d9375810.chunk.js",
+    "static/js/2.d9375810.chunk.js.map": "/appPushGot/static/js/2.d9375810.chunk.js.map",
+    "index.html": "/appPushGot/index.html",
+    "precache-manifest.9bbb38e5e15d5ef815641b7bb73aa489.js": "/appPushGot/precache-manifest.9bbb38e5e15d5ef815641b7bb73aa489.js",
+    "service-worker.js": "/appPushGot/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/appPushGot/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/appPushGot/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.d9375810.chunk.js.LICENSE.txt": "/appPushGot/static/js/2.d9375810.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/appPushGot/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b9e9f2d.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.d9375810.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.0941adb4.chunk.js"
+  ]
+}
